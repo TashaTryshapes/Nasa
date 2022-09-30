@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D81F26</color>
+    <color name="colorPrimaryB">#0C2D4C</color>
+    <color name="colorPrimaryDark">#D81F26</color>
+    <color name="colorPrimaryDarkB">#07243E</color>
+    <color name="colorAccent">#D81F26</color>
+    <!--    <color name="colorTextHint">#8C8C8C</color>-->
+    <color name="colorTextHint">#918f8f</color>
+    <color name="colorOutlineBox">#e0e0e0</color>
+    <color name="colorBlue">#454ADE</color>
+    <color name="sky_blue">#47D9CC</color>
+    <color name="sky_blue_light">#CAEEEA</color>
+
+    <color name="green">#129B12</color>
+    <color name="searchBackground">#F6F6F6</color>
+    <color name="progressColorB">#FF6600</color>
+    <color name="progressColorC">#FF585E</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="blackDark">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="circleDotColor">#e8797c</color>
+    <color name="black">#333132</color>
+    <color name="ShadowColor">#93262a</color>
+    <color name="TextColor">#231F20</color>
+    <color name="TextColorGray">#918f8f</color>
+    <color name="jobTextColor">#395980</color>
+    <color name="lineColor">#e1e1e1</color>
+    <color name="redCastIndia">#D81F26</color>
+    <color name="border_color_a">#E0E0E0</color>
+    <color name="border_color_b">#5E5E5E</color>
+    <color name="border_color_c">#A8A8A8</color>
+    <color name="border_color_d">#E4E4E4</color>
+    <color name="border_color_e">#E5E5E5</color>
+    <color name="bg_color_a">#ECECEC</color>
+    <color name="bg_color_b">#FEE9EA</color>
+    <color name="bg_color_c">#F8F8F8</color>
+    <color name="textColorA">#454ADE</color>
+    <color name="textColorB">#BFBFBF</color>
+    <color name="ErrorColor">#f8d7d9</color>
+    <color name="textBackgroundDrawer">#f6f6f6</color>
+    <color name="BorderErrorColor">#EAACB3</color>
+    <color name="radioButtonFalse">#FFE9EA</color>
+    <color name="linkColor">#235BA8</color>
+    <color name="transparent">#00235BA8</color>
+    <color name="icon_unselected">#686868</color>
+    <color name="icon_unselectedTab">#d2d2d2</color>
+
+    <color name="dialog_choose_icon_color">#757575</color>
+    <color name="dialog_choose_text_color">#757575</color>
+    <color name="drawerImageColor">#F2F2F2</color>
+</resources>
